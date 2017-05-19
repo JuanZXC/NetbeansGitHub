@@ -1,6 +1,6 @@
 package Calc;
 /**
- *
+ *jjjjs
  * @author Juan
  */
 public class Calculadora {
